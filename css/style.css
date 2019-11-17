@@ -1,0 +1,26 @@
+.bryce {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    font-size: 24px;
+    font-weight: bold;
+    background: #4aaaa5;
+    padding: 20px;
+    margin: 0px;
+    color: #ffffff;
+}
+
+.nav-link{
+    color: #666666;
+}
+
+.navbar-default {
+    background-color: #ffffff;
+    border-bottom: 2px solid #cccccc;
+}
+
+li {
+      border-right: 1px solid #dddddd;
+}
+
+li:last-child {
+    border-right: none;
+}

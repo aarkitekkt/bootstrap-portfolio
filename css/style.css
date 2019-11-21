@@ -2,10 +2,15 @@
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     font-size: 24px;
     font-weight: bold;
-    background: #4aaaa5;
     padding: 20px;
     margin: 0px;
     color: #ffffff;
+}
+
+.pagetitle {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif; 
+    border-bottom: 2px solid #cccccc;   
 }
 
 .nav-link{
@@ -19,8 +24,13 @@
 
 li {
       border-right: 1px solid #dddddd;
+      color: #666666;
 }
 
 li:last-child {
     border-right: none;
+}
+
+p  {
+    line-height: 200%;
 }

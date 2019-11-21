@@ -9,18 +9,9 @@
 
 .pagetitle {
     color: #4aaaa5;
-    font-family: 'Georgia', Times, 'Times New Roman', serif; 
-    border-bottom: 2px solid #cccccc;   
+    font-family: 'Georgia', Times, 'Times New Roman', serif;   
 }
 
-.nav-link{
-    color: #666666;
-}
-
-.navbar-default {
-    background-color: #ffffff;
-    border-bottom: 2px solid #cccccc;
-}
 
 li {
       border-right: 1px solid #dddddd;
@@ -33,4 +24,11 @@ li:last-child {
 
 p  {
     line-height: 200%;
+}
+
+#foot {
+    background: #666666;
+    height: 50px;
+    border-top: 8px solid #4aaaa5;
+    margin-top: 30px;
 }

@@ -7,6 +7,17 @@
     color: #ffffff;
 }
 
+.content {
+    min-height: calc(100vh - 80px)
+}
+
+.footer {
+    background: #666666;
+    height: 50px;
+    border-top: 8px solid #4aaaa5;
+    margin-top: 30px;
+} 
+
 .pagetitle {
     color: #4aaaa5;
     font-family: 'Georgia', Times, 'Times New Roman', serif;   
@@ -26,9 +37,3 @@ p  {
     line-height: 200%;
 }
 
-#foot {
-    background: #666666;
-    height: 50px;
-    border-top: 8px solid #4aaaa5;
-    margin-top: 30px;
-}

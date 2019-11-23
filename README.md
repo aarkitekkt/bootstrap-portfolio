@@ -8,6 +8,10 @@ The purpose of this portfolio site is to begin to learn and implement the Bootst
 
 The navbar consists of a row with two columns, including a header in the left and a navbar on the right.  When viewed at full desktop width, the navigation should be on the right and the header to the left.  At the small breakpoint, the header and nav stack on top of eachother and become center justified for mobile veiwing.
 
+https://github.com/aarkitekkt/bootstrap-portfolio/blob/master/screengrabs/nav-lrg.PNG
+
+https://github.com/aarkitekkt/bootstrap-portfolio/blob/master/screengrabs/nav-sml.PNG
+
  **Challenges** The biggest challenge faced with the navbar came from trying to make it responsive, without just copying a default navbar from bootstrap.  I wanted to use bootstrap elements while still styling the nav to look similar to the previous version and remaining responsive.
 
 ## About 
@@ -20,7 +24,7 @@ The portfolio page uses rows and columns containing Bootstrap cards to display a
 
  **Challenges**  The biggest obstacle to overcome in this section, and this entire project as a whole, was understanding the breakpoints and changing the column sizes accordingly to have images display properly on every screen width.
  
-## Screen Captures
+
 
 
 

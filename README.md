@@ -18,12 +18,19 @@ https://github.com/aarkitekkt/bootstrap-portfolio/blob/master/screengrabs/nav-sm
 
 The main content of the About Me was a straight-forward container with one row containg a header and the second row containg two columns.  The columns consist of a pic and a brief bio paragraph that are displayed in line when viewed at full width but then stack at the small breakpoint.
 
+https://github.com/aarkitekkt/bootstrap-portfolio/blob/master/screengrabs/about-lrg.PNG
+
+https://github.com/aarkitekkt/bootstrap-portfolio/blob/master/screengrabs/about-sml.PNG
+
 ## Portfolio
 
 The portfolio page uses rows and columns containing Bootstrap cards to display a few projects from my portfolio.  The images are responsive and scale as the veiwport size grows.  The images are displayed two per row but stack one per row at the small breakpoint.
 
  **Challenges**  The biggest obstacle to overcome in this section, and this entire project as a whole, was understanding the breakpoints and changing the column sizes accordingly to have images display properly on every screen width.
  
+ https://github.com/aarkitekkt/bootstrap-portfolio/blob/master/screengrabs/port-lrg.PNG
+ 
+ https://github.com/aarkitekkt/bootstrap-portfolio/blob/master/screengrabs/port-sml.PNG
 
 
 

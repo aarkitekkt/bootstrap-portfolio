@@ -1,4 +1,6 @@
 # bootstrap-portfolio
+Bryce Johnson
+https://aarkitekkt.github.io/bootstrap-portfolio/
 
 ## Purpose
 
